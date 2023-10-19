@@ -17,7 +17,7 @@ This is a simple web project that demonstrates how to create mobile-responsive d
 
 ## Demo
 
-You can see a live demo of this project [here]([demo-link](https://firdous19.github.io/dropdown-menu/)).
+You can see a live demo of this project [https://firdous19.github.io/dropdown-menu/].
 
 ## Features
 
